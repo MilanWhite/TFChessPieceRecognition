@@ -1,6 +1,11 @@
 # TF Chess Piece Recognition
 Extract FEN from image of chessboard using Tensorflow AI Recognition model, implemented with ```tf.Graph()```.
 
+
+| Execution  | Visual |
+| ------------- | ------------- |
+| <pre>python convert.py -f ./README_Imgs/chessboard1.jpg -l -c<br><br>>>> FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR</pre>  | ![Chessboard](./README_Imgs/chessboardNotated.jpg?raw=true "Title")  |
+
 ## Usage
 
 Install requirements
